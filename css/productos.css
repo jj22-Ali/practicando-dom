@@ -1,0 +1,11 @@
+.producto {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.producto img{
+    max-width: 100%;
+    height: 300px;
+}
